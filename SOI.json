@@ -1,0 +1,63 @@
+{
+  "lastUpdated": "2021-05-07T01:54:15+00:00",
+  "providerName": "JDS Creative Academy",
+  "language": "en-US",
+  "shortFormVideos": [
+    {
+      "id": "a8f2b8b921ed4f4a81a246cff91613d8",
+      "title": "Spirit of Innovation April 2021",
+      "content": {
+        "dateAdded": "2021-05-07T13:52:12+00:00",
+        "videos": [
+          {
+            "url": "https://vimeo.com/event/248866",
+            "quality": "FHD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1111
+      },
+      "thumbnail": "https://i.imgur.com/xbb608E.png",
+      "shortDescription": "The April 2021 Edition of SOI",
+      "releaseDate": "2021-05-07",
+      "longDescription": "The April edition of SOI",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "b393080271c24170931e9f7f865c9842",
+      "title": "Stromsoe Insurance",
+      "content": {
+        "dateAdded": "2021-05-07T13:53:18+00:00",
+        "videos": [
+          {
+            "url": "https://vimeo.com/manage/videos/516956982",
+            "quality": "FHD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 137
+      },
+      "thumbnail": "https://i.imgur.com/VZb7yGY.png",
+      "shortDescription": "A look into Stromsoe Insurance",
+      "releaseDate": "2021-05-07",
+      "longDescription": "A look into Stromsoe Insurance and their donations",
+      "tags": [
+        "Special"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "Full Episodes",
+      "query": "News",
+      "order": "most_recent"
+    },
+    {
+      "name": "SOI Segments",
+      "query": "Special",
+      "order": "most_recent"
+    }
+  ]
+}
